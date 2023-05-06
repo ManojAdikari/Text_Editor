@@ -80,8 +80,8 @@ This project is licensed under; MIT_License
 ```
 
 ## Questions:
-[Please use this this video url for more information about this application ](https://drive.google.com/file/d/1cGsK8qqH_QS9pGQq-YaeEUWvYqkNKx3h/view?usp=sharing)<br />
-[see this project Repositorie ](https://github.com/ManojAdikari/Social_Network_API.git)<br />
-[Clone this project](https://github.com/ManojAdikari/Social_Network_API.git) <br />
-[Clone this project](git@github.com:ManojAdikari/Social_Network_API.git)<br />
+
+[see this project Repositorie ](https://github.com/ManojAdikari/Text_Editor.git)<br />
+[Clone this project](https://github.com/ManojAdikari/Text_Editor.git) <br />
+[Clone this project](git@github.com:ManojAdikari/Text_Editor.git)<br />
 If you have any questions about this project please feel free to reach  via email at [manojpadikari@gmail.com](mailto:manojpadikari@gmail.com).
