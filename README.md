@@ -36,7 +36,7 @@ To install the necessary dependancies please run the following command: npm run 
 ## Usage:
 
 To view this application,the following image shows the landing page of the application, or click on the page link that demonstrates the functionality of this project:\
-
+<https://gentle-temple-91484.herokuapp.com/>
 
 APP installation:
 ![J.A.T.E](client/src/images/Screenshot%201.png)
